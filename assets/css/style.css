@@ -1,0 +1,26 @@
+body {
+	background-color: #000000;
+	color: #FFFFFF;
+}
+
+.icono {
+	background-color: #0DCAF0;
+}
+
+.bg-info {
+	color: #FFFFFF;
+}
+
+#linea { 
+	height: 2px; 
+    background-color: #0DCAF0; 
+    color: #0DCAF0; 
+} 
+
+.letras-footer {
+	background-color: #0DCAF0;
+}
+
+.logo {
+	height: 2rem;
+}
